@@ -55,7 +55,7 @@ function Home() {
 
 
   return (
-    
+
 <div>
       {/* background random image */}
       <div className="mb-20">
@@ -68,9 +68,9 @@ function Home() {
                 </div>
       </div>
 
-    
 
-      
+
+
       {/* Section 1 */}
       <div className="relative mx-auto flex w-11/12 max-w-maxContent flex-col items-center justify-between gap-8 text-white">
         {/* Become a Instructor Button */}
@@ -211,7 +211,7 @@ function Home() {
             </div>
             <div className="flex flex-col items-start gap-10 lg:w-[40%]">
               <div className="text-[16px]">
-                The modern Maverix is the dictates its own terms. Today, to
+                The modern BrightPath is the dictates its own terms. Today, to
                 be a competitive specialist requires more than professional
                 skills.
               </div>
