@@ -8,7 +8,7 @@ const contactDetails = [
     icon: "HiChatBubbleLeftRight",
     heading: "Chat on us",
     description: "Our friendly team is here to help.",
-    details: "info@maverix.com",
+    details: "info@dennisnzioki.com",
   },
   {
     icon: "BiWorld",
