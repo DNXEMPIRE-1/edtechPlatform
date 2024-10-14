@@ -1,1 +1,1 @@
-# Project
+# BrightPath EdTech Platform
